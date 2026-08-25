@@ -1,0 +1,21 @@
+data/archive.json
+  s_d2b30dfed0f8a9::t_8e9c22d89dfaf6 1-17903
+public/feed.xml
+  s_d2b30dfed0f8a9::t_38c38533cdf8a3 1-28403
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "64ad395ca494d4fb01185bda96dc12cb83052314",
+  "prompts": {},
+  "sessions": {
+    "s_d2b30dfed0f8a9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03aa1-e57a-7f22-993f-cc65553523b3",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "rohdester <rohdester@gmail.com>"
+    }
+  }
+}
